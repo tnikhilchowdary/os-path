@@ -1,0 +1,10 @@
+System Project Report
+-----------------------------------
+OS: Windows_NT
+Platform: win32
+Architecture: x64
+CPU Cores: 8
+Total Memory: 7930.79 MB
+Free Memory: 1424.68 MB
+Uptime: 1977928.828 seconds
+Home Directory: C:\Users\tnikh
